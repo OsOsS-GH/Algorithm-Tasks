@@ -1,0 +1,10 @@
+E:\osos 3\algorithms\tasks\sortingApp\bin\Debug\sortingApp.exe.config
+E:\osos 3\algorithms\tasks\sortingApp\bin\Debug\sortingApp.exe
+E:\osos 3\algorithms\tasks\sortingApp\bin\Debug\sortingApp.pdb
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.csproj.AssemblyReference.cache
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.Form1.resources
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.Properties.Resources.resources
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.csproj.GenerateResource.cache
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.csproj.CoreCompileInputs.cache
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.exe
+E:\osos 3\algorithms\tasks\sortingApp\obj\Debug\sortingApp.pdb

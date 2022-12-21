@@ -1,0 +1,7 @@
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\bin\Debug\kruskal's algoriithm.exe.config
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\bin\Debug\kruskal's algoriithm.exe
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\bin\Debug\kruskal's algoriithm.pdb
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\obj\Debug\kruskal's algoriithm.csproj.AssemblyReference.cache
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\obj\Debug\kruskal's algoriithm.csproj.CoreCompileInputs.cache
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\obj\Debug\kruskal's algoriithm.exe
+E:\osos 3\algorithms\tasks\kruskal's algoriithm\obj\Debug\kruskal's algoriithm.pdb
